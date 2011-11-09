@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="error" waveUnderlined="ffef2929"/>
+    <fontcolor foreColor="ff99cc99" name="char"/>
+    <fontcolor foreColor="ffb294bb" name="keyword"/>
+    <fontcolor name="whitespace"/>
+    <fontcolor foreColor="fff99157" name="number"/>
+    <fontcolor default="keyword" name="markup-element"/>
+    <fontcolor foreColor="ff64cccc" name="operator"/>
+    <fontcolor name="url" underline="blue"/>
+    <fontcolor default="identifier" name="field"/>
+    <fontcolor bgColor="ff2d2d2d" foreColor="ffcccccc" name="default">
+        <font name="Droid Sans Mono" size="13" style="plain"/>
+    </fontcolor>
+    <fontcolor foreColor="ff99cc99" name="string"/>
+    <fontcolor default="string" name="markup-attribute-value"/>
+    <fontcolor default="default" name="entity-reference"/>
+    <fontcolor default="identifier" name="method"/>
+    <fontcolor foreColor="ff999999" name="comment"/>
+    <fontcolor name="identifier"/>
+    <fontcolor name="warning" waveUnderlined="yellow"/>
+    <fontcolor name="separator"/>
+    <fontcolor default="field" name="markup-attribute"/>
+</fontscolors>
