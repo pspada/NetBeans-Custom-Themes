@@ -17,3 +17,8 @@ much room form improvement.
 PHP
 
 ![PHP sample](https://github.com/paololus/NetBeans-Custom-Themes/raw/master/samples/Yesterday-Evening/yesterday-evening-php.png)
+
+
+## Disclaimer
+Each one of these themes is provided "AS IS".
+Use them at your own risk, do whatever you want and be happy =)
