@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="PHP_VARIABLE"/>
+    <fontcolor foreColor="ffefef8f" name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="constant" name="constant">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="uncovered" name="uncovered"/>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor name="mod-static">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="identifier" name="PHP_STRING"/>
+    <fontcolor default="partial" name="partial"/>
+    <fontcolor default="inferred" name="inferred"/>
+    <fontcolor default="operator" name="operator"/>
+    <fontcolor name="mod-class">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="T_INLINE_HTML"/>
+    <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
+    <fontcolor bgColor="ff688060" name="mark-occurrences"/>
+    <fontcolor default="string" name="string"/>
+    <fontcolor default="field" name="mod-field"/>
+    <fontcolor foreColor="white" name="heredocdelimiter"/>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="comment" name="phpdockeyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="identifier" name="identifier"/>
+    <fontcolor default="separator" name="separator"/>
+    <fontcolor foreColor="white" name="phpopenclose">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="PHP_CONTENT"/>
+    <fontcolor default="covered" name="covered"/>
+</fontscolors>
