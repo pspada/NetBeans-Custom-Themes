@@ -19,6 +19,22 @@ PHP
 ![PHP sample](https://github.com/paololus/NetBeans-Custom-Themes/raw/master/samples/Yesterday-Evening/yesterday-evening-php.png)
 
 
+## Zenburned
+This is just a port of the famous and great Zenburn theme (http://slinky.imukuppi.org/zenburnpage/).
+
+For the colors palette I referred to this very useful page: http://wiki.steam-punk.net/zenburn.
+
+I dedicated about one hour or so to create this theme from scratch (actually from
+the default theme which comes with NetBeans 7.1), and I mainly targeted the PHP
+syntax. This means that you will definitely find lots of inconsistencies! =)
+
+Obviously any comment and input is welcome!
+
+### Preview
+PHP
+
+![PHP sample](https://github.com/paololus/NetBeans-Custom-Themes/raw/master/samples/Zenburned/zenburned-php.png)
+
 ## Disclaimer
 Each one of these themes is provided "AS IS".
 Use them at your own risk, do whatever you want and be happy =)
