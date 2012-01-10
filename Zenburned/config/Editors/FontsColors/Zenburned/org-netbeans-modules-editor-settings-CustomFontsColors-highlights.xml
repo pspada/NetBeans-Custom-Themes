@@ -12,7 +12,7 @@
     <fontcolor bgColor="ff262626" name="highlight-caret-row"/>
     <fontcolor foreColor="red" name="status-bar-bold"/>
     <fontcolor foreColor="black" name="caret-color-overwrite-mode"/>
-    <fontcolor bgColor="ffb0c5e3" name="selection"/>
+    <fontcolor bgColor="ff5a5a5a" name="selection"/>
     <fontcolor name="status-bar"/>
     <fontcolor bgColor="fff8f893" foreColor="ff385f38" name="inc-search"/>
     <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>
