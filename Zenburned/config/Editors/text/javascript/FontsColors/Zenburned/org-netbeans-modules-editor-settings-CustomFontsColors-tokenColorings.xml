@@ -18,7 +18,7 @@
     <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
     <fontcolor default="comment" name="BLOCK_COMMENT"/>
     <fontcolor default="whitespace" name="WHITESPACE"/>
-    <fontcolor bgColor="ffeceba3" name="mark-occurrences"/>
+    <fontcolor bgColor="ff688060" name="mark-occurrences"/>
     <fontcolor bgColor="ffffe4ff" foreColor="black" name="mod-custom1"/>
     <fontcolor default="error" name="ERROR"/>
     <fontcolor name="mod-custom3">
