@@ -1,6 +1,22 @@
 # Netbeans Custom Themes
 Just a set of themes I decided to port and/or customize for the Netbeans IDE
 
+## Installation
+1.  Get the theme (zip archive) you want to install. You can do that in one of
+    the following ways.
+    * Download it from the [download page](https://github.com/paololus/NetBeans-Custom-Themes/downloads).
+    * Create the archive by yourself.
+      In this case make sure you zip the _'config'_ folder within the main
+      theme folder itself (e.g. _NetBeans-Custom-Themes/Zenburned/**config**_)
+
+2.  Open NetBeans and import the new theme by:
+    `Tools => Options => Font & Colors => Import => Browse...` choose the zip archive
+    (e.g. Zenburned.zip) `OK`. Now select the `All` option (to import all the settings)
+    and finally `OK` again. NetBeans will prompt a window asking you to restart
+    the editor in order for the imported settings to be effective. Just confirm.
+
+3.  Enjoy (if everything is ok) or complain (if somthing wrong happened) =)
+
 ## Yesterday Evening
 This theme is the result of my tentative to port the theme "Tomorrow Night Eighties"
 (https://github.com/ChrisKempson/Tomorrow-Theme) to NetBeans. I soon realized,
