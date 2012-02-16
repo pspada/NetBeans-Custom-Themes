@@ -2,7 +2,7 @@
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
     <fontcolor foreColor="ff666666" name="code-folding"/>
-    <fontcolor foreColor="ff94fe2e" name="caret-color-insert-mode"/>
+    <fontcolor foreColor="ff3be7fd" name="caret-color-insert-mode"/>
     <fontcolor bgColor="ffe0e8f1" foreColor="black" name="block-search"/>
     <fontcolor foreColor="ff8f8f8f" name="text-limit-line-color"/>
     <fontcolor bgColor="ffdfdfdf" name="readonly-files"/>

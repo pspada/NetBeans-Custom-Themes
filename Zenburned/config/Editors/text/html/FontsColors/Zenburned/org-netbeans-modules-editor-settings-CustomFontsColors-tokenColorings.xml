@@ -8,14 +8,14 @@
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="error" name="error"/>
-    <fontcolor bgColor="ffe3f2e1" default="default" name="css-embedded"/>
+    <fontcolor default="default" name="css-embedded"/>
     <fontcolor default="markup-element" name="tag"/>
     <fontcolor default="comment" name="sgml-comment"/>
     <fontcolor default="whitespace" name="ws"/>
     <fontcolor default="argument" name="operator"/>
     <fontcolor default="entity-reference" name="character"/>
     <fontcolor name="mod-class" waveUnderlined="red"/>
-    <fontcolor bgColor="ffe3f2e1" default="default" name="javascript-embedded"/>
+    <fontcolor default="default" name="javascript-embedded"/>
     <fontcolor default="markup-attribute-value" name="value"/>
     <fontcolor default="comment" name="block-comment"/>
 </fontscolors>

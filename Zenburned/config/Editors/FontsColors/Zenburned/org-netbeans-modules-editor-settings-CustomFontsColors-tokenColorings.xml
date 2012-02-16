@@ -13,7 +13,7 @@
     <fontcolor name="url" underline="ff8cd0d3"/>
     <fontcolor default="identifier" foreColor="ffefef8f" name="field"/>
     <fontcolor bgColor="ff3f3f3f" foreColor="ffdcdccc" name="default">
-        <font name="Monospaced" size="13"/>
+        <font name="Droid Sans Mono Slashed" size="11"/>
     </fontcolor>
     <fontcolor foreColor="ffdca3a3" name="string"/>
     <fontcolor default="string" name="markup-attribute-value"/>
