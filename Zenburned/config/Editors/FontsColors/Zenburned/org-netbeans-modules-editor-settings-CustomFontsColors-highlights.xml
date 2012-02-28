@@ -5,7 +5,7 @@
     <fontcolor foreColor="ff3be7fd" name="caret-color-insert-mode"/>
     <fontcolor bgColor="ffe0e8f1" foreColor="black" name="block-search"/>
     <fontcolor foreColor="ff8f8f8f" name="text-limit-line-color"/>
-    <fontcolor bgColor="ffdfdfdf" name="readonly-files"/>
+    <fontcolor bgColor="black" name="readonly-files"/>
     <fontcolor bgColor="fff8f893" foreColor="ff385f38" name="nbeditor-bracesMatching-match-multichar"/>
     <fontcolor bgColor="ffe9e8e2" foreColor="black" name="line-number"/>
     <fontcolor foreColor="blue" name="hyperlinks" underline="blue"/>
@@ -20,7 +20,7 @@
     <fontcolor bgColor="ffffb442" foreColor="black" name="highlight-search"/>
     <fontcolor bgColor="fff18c96" name="nbeditor-bracesMatching-mismatch-multichar"/>
     <fontcolor foreColor="ff996600" name="synchronized-text-blocks-ext-slave"/>
-    <fontcolor bgColor="ffdfdfdf" name="guarded"/>
+    <fontcolor bgColor="ff3f3f3f" name="guarded"/>
     <fontcolor bgColor="fff8f893" foreColor="ff385f38" name="nbeditor-bracesMatching-match"/>
     <fontcolor bgColor="fff18c96" name="nbeditor-bracesMatching-mismatch"/>
 </fontscolors>
