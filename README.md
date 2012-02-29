@@ -15,7 +15,7 @@ Just a set of themes I decided to port and/or customize for the Netbeans IDE
     and finally `OK` again. NetBeans will prompt a window asking you to restart
     the editor in order for the imported settings to be effective. Just confirm.
 
-3.  Enjoy (if everything is ok) or complain (if somthing wrong happened) =)
+3.  Enjoy (if everything is ok) or complain (if something wrong happened) =)
 
 ## Yesterday Evening
 This theme is the result of my tentative to port the theme "Tomorrow Night Eighties"
@@ -30,7 +30,7 @@ I consider this theme still on a very preliminary stage because there is still
 much room form improvement.
 
 ### Preview
-PHP
+__PHP__
 
 ![PHP sample](https://github.com/paololus/NetBeans-Custom-Themes/raw/master/samples/Yesterday-Evening/yesterday-evening-php.png)
 
@@ -47,9 +47,13 @@ syntax. This means that you will definitely find lots of inconsistencies! =)
 Obviously any comment and input is welcome!
 
 ### Preview
-PHP
+__PHP__
 
 ![PHP sample](https://github.com/paololus/NetBeans-Custom-Themes/raw/master/samples/Zenburned/zenburned-php.png)
+
+__Diff__
+
+![PHP sample](https://github.com/paololus/NetBeans-Custom-Themes/raw/master/samples/Zenburned/zenburned-diff.png)
 
 ## Disclaimer
 Each one of these themes is provided "AS IS".
