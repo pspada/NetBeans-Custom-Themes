@@ -55,6 +55,29 @@ __Diff__
 
 ![PHP sample](https://github.com/paololus/NetBeans-Custom-Themes/raw/master/samples/Zenburned/zenburned-diff.png)
 
+## Diff colors
+
+Unfortunately as of now NetBeans does not store the configuration of the colors for the diff in the same way and place
+it does for the others.
+As far as I know this configuration is stored in the file `diff.properties` which can be found at the following sample location
+`~/.netbeans/7.1/config/Preferences/org/netbeans/modules/diff.properties` (_7.1_ being the version of NetBeans in my case on a GNU/Linux system).
+Also note that the colors for the diff are global, meaning that they will be applied indipendently from the active theme you have.
+
+### How-to apply the diff colors
+
+The following procedure worked for me. I hope it will work for you too (let me know if it does not).
+
+1.  __Back up the original file__:
+    
+    `cd ~/.netbeans/<YOUR NB VERSION>/config/Preferences/org/netbeans/modules/`
+    `mv diff.properties diff.properties.bak`
+
+2.  __Replace the original file with the one provided with the theme (only for Zenburned for now)__:
+    
+    `cp /path/to/new/diff.properties ~/.netbeans/<YOUR NB VERSION>/config/Preferences/org/netbeans/modules/diff.properties`
+
+3.  __Try it!__: the next diff you'll do should use the new colors. In any case restarting the IDE won't hurt.
+
 ## Disclaimer
 Each one of these themes is provided "AS IS".
 Use them at your own risk, do whatever you want and be happy =)
